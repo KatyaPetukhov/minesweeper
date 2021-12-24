@@ -5,4 +5,4 @@
 * Run Game for GUI
 * Run TextGame for CLI
 * Details:
-`https://en.wikipedia.org/wiki/Minesweeper_(video_game)`
+[https://en.wikipedia.org/wiki/Minesweeper_(video_game)](https://en.wikipedia.org/wiki/Minesweeper_%28video_game%29)
