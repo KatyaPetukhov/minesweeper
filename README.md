@@ -1,7 +1,7 @@
 # Minesweeper
 *OOP HW5*
 
-* Requires liberica-jdk-11 full.
+* Requires liberica-jdk-11 full
 * Run Game for GUI
 * Run TextGame for CLI
 * Details:
