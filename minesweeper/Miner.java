@@ -130,7 +130,7 @@ public class Miner {
 			throw new IllegalArgumentException("Number of mines is too big.");
 		}
 		Random rand = new Random();
-		for (; numMines > 0; numMines--, nonMines--, this.numMines++) {
+		for (; numMines > 0; numMines--, nonMines--) {
 			int newMineIndex = rand.nextInt(nonMines);
 			for (int i = 0; i < height && newMineIndex >= 0; i++) {
 				for (int j = 0; j < width && newMineIndex >= 0; j++) {
